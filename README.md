@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analysis and Machine Learning<br><br>🌱 I’m currently learning SQL<br><br>👨‍💻 All of my projects are available at https://github.com/ilaydacelikk<br><br>💬 Ask me about R and Regression Analysis<br><br>📫 How to reach me ilaydaceliikk@gmail.com
+🔭 I’m currently working on Data Analysis and Machine Learning<br><br>🌱 I’m currently learning SQL<br><br>💬 Ask me about R and Regression Analysis<br><br>📫 How to reach me ilaydaceliikk@gmail.com
 
 
 ## 🌐 Socials:
